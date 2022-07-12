@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\elasticsearch",
+    "\\extensions",
+    "\\extensions\\filebeat",
+    "\\kibana",
+    "\\logstash",
+    "\\src\\ElkDotnetDemo",
+    "\\src\\ElkDotnetDemo\\DockerDemo"
+  ],
+  "SelectedNode": "\\elasticsearch\\Dockerfile",
+  "PreviewInSolutionExplorer": false
+}
